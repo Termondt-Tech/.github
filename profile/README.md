@@ -34,7 +34,7 @@ Our flagship product, MYAI, is a proprietary platform designed to unlock the pot
 
 MYAI is currently available under a Proprietary Software License. Access to the code and platform is limited to authorized clients and partners.
 
-# Collaborate with Us
+## Collaborate with Us
 Although MYAI is not open source, we actively collaborate with clients and partners to create tailored solutions. If you're interested in leveraging MYAI or working with Termondt Tech, please get in [touch](https://termondttech.com/contact) with us.
 
 Visit our [web site](https://termondttech.com) for more infomation.
