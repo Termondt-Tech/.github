@@ -1,40 +1,114 @@
 # Welcome to Termondt Tech
 
-We specialize in delivering cutting-edge technology solutions that drive innovation and achieve results. Our experts brings unparalleled experience and a passion for excellence to every project, ensuring your business thrives in today’s competitive landscape.
+We're your trusted tech partner in Geneva, IL — helping small businesses and entrepreneurs grow smarter with reliable IT support, scalable web solutions, custom software development, and intelligent automation.
 
-# Our Services
-**Technology Services for Startups and Entrepreneurs** 
+---
 
-Empower your startup with transformative technology solutions designed to help you succeed in today’s fast-paced environment. We offer specialized services tailored to the unique needs of startups and entrepreneurs, including website development, e-commerce integration, and payment solutions with platforms like Stripe and Square. Our scalable, cost-effective solutions are designed to grow with your business, providing the tools you need to launch, scale, and thrive.
+## 💻 Web Development
 
-**Software Architecture and Development** 
+**Modern Websites That Grow with Your Business**
 
-Build the foundation of your business with our comprehensive software architecture and development services. We design and develop scalable, high-performance software solutions tailored to your unique needs. Our expertise spans microservices architecture, cloud-native development on platforms like AWS, Google Cloud, and Azure, and custom software solutions that drive innovation and support your business objectives. We also specialize in AI integration, helping you unlock the potential of artificial intelligence to automate, enhance decision-making, and create new growth opportunities.
+From sleek business sites to full-featured e-commerce, we build mobile-friendly websites that scale with you.
 
-**Middleware and Integration Services** 
+We help you:
+- Launch modern, mobile-ready websites
+- Integrate payments, scheduling, and forms
+- Automate key tasks with backend workflows
 
-Streamline your operations and enhance communication between systems with our robust middleware and integration services. We design and develop solutions that seamlessly integrate your various operational and customer-facing applications, improving data flow and operational efficiency. Our expertise includes cloud-based integration solutions, API integrations, AI and machine learning integration, IoT connectivity, and CRM and ERP integrations, ensuring your systems work harmoniously together.
+🔗 [Explore Web Services »](https://termondttech.com/web-development-services)
 
-# Our Products
+---
 
-**MYAI: AI-Powered Conversations**
+## 🛠 IT Support
 
-Our flagship product, MYAI, is a proprietary platform designed to unlock the potential of conversational AI. Built on Next.js, Spring Boot, and PostgreSQL, and leveraging the OpenAI API, MYAI offers:
+**Local, Hands-On Tech Help for Home & Business**
 
-- Advanced Conversational Memory for seamless, continuous interactions
-- Dockerized Containers for easy deployment and consistent environments
-- Scalable architecture to grow with your business
+We provide on-site and remote tech support for small businesses and home users in Geneva, IL and surrounding areas.
 
-**Roadmap Highlights:**
+We help you:
+- Fix tech issues fast (remotely or on-site)
+- Set up secure networks, devices, and printers
+- Keep your tech running reliably
 
-- Advanced Prompt Engineering Assistance
-- Real-Time AI Collaboration
-- Automated Research Tool
+🔗 [Explore IT Support »](https://termondttech.com/tech-support-services)
+
+---
+
+## ⚙️ Automation & Integration
+
+**Work Smarter with Connected Systems**
+
+Using tools like Zapier, Power Automate, and custom APIs, we automate manual tasks and connect your software tools for a smoother, smarter workflow.
+
+We help you:
+- Automate repetitive tasks
+- Connect legacy and cloud systems
+- Leverage AI for faster decisions
+
+🔗 [Discover Automation Solutions »](https://termondttech.com/middleware-integration)
+
+---
+
+## 🧩 Software Architecture & Development
+
+**Custom Software for Real-World Business Challenges**
+
+We design and build cloud-native applications, modular systems, and high-performance software using modern tech stacks like Java, Python, and Spring Boot.
+
+We help you:
+- Develop software aligned with your workflow
+- Leverage AWS, Azure, or Google Cloud
+- Build modular systems with future flexibility
+
+🔗 [Explore Software Services »](https://termondttech.com/software-architecture)
+
+---
+
+## 🤖 MYAI – AI as a Service
+
+**Our Flagship Platform for Intelligent Automation**
+
+MYAI is a fully containerized platform that delivers AI-powered conversations, user interaction, and real-time workflow automation.
+
+Available in two backend versions:
+- **Java/Spring Boot + PostgreSQL**
+- **Python/Flask + PostgreSQL**
+
+Frontend built with **Next.js**, and powered by the **OpenAI API**.
+
+Key benefits:
+- Context-aware conversational memory
+- Built-in user management and authentication
+- Easily deployable with Docker and Kubernetes
+- Fully customizable to your business needs
+
+Roadmap includes:
+- Advanced Prompt Engineering
+- Real-Time Collaboration
 - Natural Language Workflow Automation
+- Automated Research Tools
 
-MYAI is currently available under a Proprietary Software License. Access to the code and platform is limited to authorized clients and partners.
+> MYAI is proprietary software, available to authorized clients and partners.
 
-## Collaborate with Us
-Although MYAI is not open source, we actively collaborate with clients and partners to create tailored solutions. If you're interested in leveraging MYAI or working with Termondt Tech, please get in [touch](https://termondttech.com/contact) with us.
+🔗 [Explore MYAI »](https://termondttech.com/myai)
 
-Visit our [web site](https://termondttech.com) for more infomation.
+---
+
+## ✅ Why Choose Termondt Tech?
+
+- Proven Expertise – Decades of experience across industries  
+- Tailored Solutions – Built around your specific goals  
+- Reliable Service – Fast response and trusted quality  
+- Future-Ready – We stay ahead so you don’t fall behind
+
+---
+
+## 📞 Let’s Talk About What’s Next
+
+**Ready to move your business forward?**
+
+👉 [Schedule a Free Consultation »](https://termondttechllc.setmore.com/services/96b4d1aa-cc4b-4b87-8b2f-3672ec6d1416)  
+📞 Or call us at **(630) 492-0479**  
+✉️ Prefer email? [Contact us here](https://termondttech.com/form/contact)
+
+🔗 Visit our full website at [termondttech.com](https://termondttech.com)
