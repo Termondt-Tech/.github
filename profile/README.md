@@ -72,7 +72,7 @@ MYAI is a fully containerized platform that delivers AI-powered conversations, u
 
 Available in two backend versions:
 - **Java/Spring Boot + PostgreSQL**
-- **Python/Flask + PostgreSQL**
+- **Python/Flask + SQLite**
 
 Frontend built with **Next.js**, and powered by the **OpenAI API**.
 
