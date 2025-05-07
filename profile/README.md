@@ -87,9 +87,9 @@ Roadmap includes:
 - Natural Language Workflow Automation
 - Automated Research Tools
 
-> MYAI is proprietary software, available to authorized clients and partners.
+> Syvrona is proprietary software, available to authorized clients and partners.
 
-🔗 [Explore MYAI »](https://termondttech.com/myai)
+🔗 [Explore Syvrona »](https://termondttech.com/syvrona)
 
 ---
 
