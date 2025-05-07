@@ -71,7 +71,7 @@ We help you:
 Syvrona is a fully containerized platform that delivers AI-powered conversations, user interaction, and real-time workflow automation.
 
 Available in two backend versions:
-- Backennd Built with **Java/Spring Boot + PostgreSQL**; Frontend built with **Next.js**
+- Backend Built with **Java/Spring Boot + PostgreSQL**; Frontend built with **Next.js**
 - **Python/Flask + SQLite**
 
 Key benefits:
