@@ -64,23 +64,22 @@ We help you:
 
 ---
 
-## 🤖 MYAI – AI as a Service
+## 🤖 Syvrona – AI as a Service
 
 **Our Flagship Platform for Intelligent Automation**
 
-MYAI is a fully containerized platform that delivers AI-powered conversations, user interaction, and real-time workflow automation.
+Syvrona is a fully containerized platform that delivers AI-powered conversations, user interaction, and real-time workflow automation.
 
 Available in two backend versions:
-- **Java/Spring Boot + PostgreSQL**
+- Backennd Built with **Java/Spring Boot + PostgreSQL**; Frontend built with **Next.js**
 - **Python/Flask + SQLite**
-
-Frontend built with **Next.js**, and powered by the **OpenAI API**.
 
 Key benefits:
 - Context-aware conversational memory
 - Built-in user management and authentication
 - Easily deployable with Docker and Kubernetes
 - Fully customizable to your business needs
+- Powered by the **OpenAI API**.
 
 Roadmap includes:
 - Advanced Prompt Engineering
