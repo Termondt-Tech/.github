@@ -72,14 +72,14 @@ Syvrona is a fully containerized platform that delivers AI-powered conversations
 
 Available in two backend versions:
 - Backend Built with **Java/Spring Boot + PostgreSQL**; Frontend built with **Next.js**
-- **Python/Flask + SQLite**
+- **Python/Flask + MySQL**
 
 Key benefits:
 - Context-aware conversational memory
 - Built-in user management and authentication
 - Easily deployable with Docker and Kubernetes
 - Fully customizable to your business needs
-- Powered by the **OpenAI API**.
+- Multi-provider, multi-model support powered by the **OpenAI API** and **Anthropic**.
 
 Roadmap includes:
 - Advanced Prompt Engineering
