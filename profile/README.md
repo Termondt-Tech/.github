@@ -19,21 +19,6 @@ We help you:
 
 ---
 
-## 🛠 IT Support
-
-**Local, Hands-On Tech Help for Home & Business**
-
-We provide on-site and remote tech support for small businesses and home users in Geneva, IL and surrounding areas.
-
-We help you:
-- Fix tech issues fast (remotely or on-site)
-- Set up secure networks, devices, and printers
-- Keep your tech running reliably
-
-🔗 [Explore IT Support »](https://termondttech.com/tech-support-services)
-
----
-
 ## ⚙️ Automation & Integration
 
 **Work Smarter with Connected Systems**
@@ -90,6 +75,21 @@ Roadmap includes:
 > Syvrona is proprietary software, available to authorized clients and partners.
 
 🔗 [Explore Syvrona »](https://termondttech.com/syvrona)
+
+---
+
+## 🛠 IT Support
+
+**Local, Hands-On Tech Help for Home & Business**
+
+We provide on-site and remote tech support for small businesses and home users in Geneva, IL and surrounding areas.
+
+We help you:
+- Fix tech issues fast (remotely or on-site)
+- Set up secure networks, devices, and printers
+- Keep your tech running reliably
+
+🔗 [Explore IT Support »](https://termondttech.com/tech-support-services)
 
 ---
 
