@@ -1,113 +1,42 @@
 # Welcome to Termondt Tech
 
-We're your trusted tech partner in Geneva, IL — helping small businesses and entrepreneurs grow smarter with reliable IT support, scalable web solutions, custom software development, and intelligent automation.
+Termondt Tech is the engineering practice behind a systematic, data-driven trading operation — building the real-time data pipelines, automated execution systems, and reliability infrastructure it runs on, unsupervised.
 
 ---
 
-## 💻 Web Development
+## 📊 What We Build
 
-**Modern Websites That Grow with Your Business**
+**Market Data & Decision Support**
+Real-time data ingestion turned into clear, ranked, explainable decisions.
 
-From sleek business sites to full-featured e-commerce, we build mobile-friendly websites that scale with you.
+**Automated Execution & Risk Controls**
+Systems that place and manage trades autonomously, inside hard limits that don't bend — kill switches, circuit breakers, fail-closed behavior.
 
-We help you:
-- Launch modern, mobile-ready websites
-- Integrate payments, scheduling, and forms
-- Automate key tasks with backend workflows
-
-🔗 [Explore Web Services »](https://termondttech.com/web-development-services)
+**Monitoring & Operational Reliability**
+Infrastructure for watching systems that run without supervision: real-time alerting, audit trails, and continuous reconciliation.
 
 ---
 
-## ⚙️ Automation & Integration
+## 🧠 How We Build
 
-**Work Smarter with Connected Systems**
-
-Using tools like Zapier, Power Automate, and custom APIs, we automate manual tasks and connect your software tools for a smoother, smarter workflow.
-
-We help you:
-- Automate repetitive tasks
-- Connect legacy and cloud systems
-- Leverage AI for faster decisions
-
-🔗 [Discover Automation Solutions »](https://termondttech.com/middleware-integration)
+**Design** → work out requirements, edge cases, and failure modes before writing code.
+**Build** → implement, test, and document with the same rigor whether the system is new or being extended.
+**Operate** → deploy, monitor, and iterate against real-world behavior, not just design assumptions.
 
 ---
 
-## 🧩 Software Architecture & Development
+## ✅ How We Operate
 
-**Custom Software for Real-World Business Challenges**
-
-We design and build cloud-native applications, modular systems, and high-performance software using modern tech stacks like Java, Python, and Spring Boot.
-
-We help you:
-- Develop software aligned with your workflow
-- Leverage AWS, Azure, or Google Cloud
-- Build modular systems with future flexibility
-
-🔗 [Explore Software Services »](https://termondttech.com/software-architecture)
+- **Built to Run Unattended** – designed with the assumption that no one is watching every tick
+- **Engineering-First** – senior-level systems and software experience, not templated solutions
+- **Narrow, Deep Focus** – effort concentrated on a small number of systems, built and maintained deeply rather than spread thin
+- **Practical Over Impressive** – clear, defensible engineering decisions, not complexity for its own sake
 
 ---
 
-## 🤖 Syvrona – AI as a Service
+## Get in Touch
 
-**Our Flagship Platform for Intelligent Automation**
+Most of our engineering time goes toward the systems described above. If you're working on something in the same space — real-time, reliability-critical systems — we'd be glad to hear from you.
 
-Syvrona is a fully containerized platform that delivers AI-powered conversations, user interaction, and real-time workflow automation.
-
-Available in two backend versions:
-- Backend Built with **Java/Spring Boot + PostgreSQL**; Frontend built with **Next.js**
-- **Python/Flask + MySQL**
-
-Key benefits:
-- Context-aware conversational memory
-- Built-in user management and authentication
-- Easily deployable with Docker and Kubernetes
-- Fully customizable to your business needs
-- Multi-provider, multi-model support powered by the **OpenAI API** and **Anthropic**.
-
-Roadmap includes:
-- Advanced Prompt Engineering
-- Real-Time Collaboration
-- Natural Language Workflow Automation
-- Automated Research Tools
-
-> Syvrona is proprietary software, available to authorized clients and partners.
-
-🔗 [Explore Syvrona »](https://termondttech.com/syvrona)
-
----
-
-## 🛠 IT Support
-
-**Local, Hands-On Tech Help for Home & Business**
-
-We provide on-site and remote tech support for small businesses and home users in Geneva, IL and surrounding areas.
-
-We help you:
-- Fix tech issues fast (remotely or on-site)
-- Set up secure networks, devices, and printers
-- Keep your tech running reliably
-
-🔗 [Explore IT Support »](https://termondttech.com/tech-support-services)
-
----
-
-## ✅ Why Choose Termondt Tech?
-
-- Proven Expertise – Decades of experience across industries  
-- Tailored Solutions – Built around your specific goals  
-- Reliable Service – Fast response and trusted quality  
-- Future-Ready – We stay ahead so you don’t fall behind
-
----
-
-## 📞 Let’s Talk About What’s Next
-
-**Ready to move your business forward?**
-
-👉 [Schedule a Free Consultation »](https://termondttechllc.setmore.com/services/96b4d1aa-cc4b-4b87-8b2f-3672ec6d1416)  
-📞 Or call us at **(630) 492-0479**  
-✉️ Prefer email? [Contact us here](https://termondttech.com/form/contact)
-
-🔗 Visit our full website at [termondttech.com](https://termondttech.com)
+✉️ [Contact us](https://termondttech.com/form/contact)
+🔗 [termondttech.com](https://termondttech.com)
