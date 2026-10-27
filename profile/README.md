@@ -50,7 +50,7 @@ Nothing here is investment advice.
 ## ✅ How I operate
 
 - **Automated and watched.** Fully automated systems that a human can monitor and stop, in one action, from a phone.
-- **Twenty-five years in trading infrastructure.** Order-entry gateways at the New York Stock Exchange; market connectivity, FPGA and DevOps at Chicago Trading Company.
+- **Fourteen years in trading infrastructure.** Order-entry gateways at the New York Stock Exchange; market connectivity, FPGA and DevOps at Chicago Trading Company.
 - **Narrow, deep focus.** A small number of systems, built and operated deeply rather than spread thin.
 - **Evidence over spin.** The first strategy lost money and was stopped. The write-up says so, with the numbers.
 
